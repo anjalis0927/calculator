@@ -1,2 +1,1 @@
-# CODSOFT 2
-calculator
+# Calculator
